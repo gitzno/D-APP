@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hoang\\Desktop\\D-APP\\d-app-be-service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB102F70-F3CC-4E90-B2BB-BCCD0A95C50A}|D-APP_API\\D-APP_API.csproj|c:\\users\\hoang\\desktop\\d-app\\d-app-be-service\\d-app_api\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB102F70-F3CC-4E90-B2BB-BCCD0A95C50A}|D-APP_API\\D-APP_API.csproj|solutionrelative:d-app_api\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BE9381-B976-43EE-8AA6-5E1E1521E795}|D-APP-Core\\D-APP-Core.csproj|c:\\users\\hoang\\desktop\\d-app\\d-app-be-service\\d-app-core\\services\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BE9381-B976-43EE-8AA6-5E1E1521E795}|D-APP-Core\\D-APP-Core.csproj|solutionrelative:d-app-core\\services\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DocumentService.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\Desktop\\D-APP\\d-app-be-service\\D-APP-Core\\Services\\DocumentService.cs",
+              "RelativeDocumentMoniker": "D-APP-Core\\Services\\DocumentService.cs",
+              "ToolTip": "C:\\Users\\Hoang\\Desktop\\D-APP\\d-app-be-service\\D-APP-Core\\Services\\DocumentService.cs",
+              "RelativeToolTip": "D-APP-Core\\Services\\DocumentService.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAlwIsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:18:10.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DocumentController.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\Desktop\\D-APP\\d-app-be-service\\D-APP_API\\Controllers\\DocumentController.cs",
+              "RelativeDocumentMoniker": "D-APP_API\\Controllers\\DocumentController.cs",
+              "ToolTip": "C:\\Users\\Hoang\\Desktop\\D-APP\\d-app-be-service\\D-APP_API\\Controllers\\DocumentController.cs",
+              "RelativeToolTip": "D-APP_API\\Controllers\\DocumentController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAmwD8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T09:07:11.946Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

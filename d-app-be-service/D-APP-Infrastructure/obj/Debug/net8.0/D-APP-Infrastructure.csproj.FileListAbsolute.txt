@@ -1,0 +1,17 @@
+C:\Users\Hoang\Desktop\D-APP\d-app-be-service\D-APP-Infrastructure\bin\Debug\net8.0\D-APP-Infrastructure.deps.json
+C:\Users\Hoang\Desktop\D-APP\d-app-be-service\D-APP-Infrastructure\bin\Debug\net8.0\D-APP-Infrastructure.runtimeconfig.json
+C:\Users\Hoang\Desktop\D-APP\d-app-be-service\D-APP-Infrastructure\bin\Debug\net8.0\D-APP-Infrastructure.dll
+C:\Users\Hoang\Desktop\D-APP\d-app-be-service\D-APP-Infrastructure\bin\Debug\net8.0\D-APP-Infrastructure.pdb
+C:\Users\Hoang\Desktop\D-APP\d-app-be-service\D-APP-Infrastructure\bin\Debug\net8.0\D-APP-Core.dll
+C:\Users\Hoang\Desktop\D-APP\d-app-be-service\D-APP-Infrastructure\bin\Debug\net8.0\D-APP-Core.pdb
+C:\Users\Hoang\Desktop\D-APP\d-app-be-service\D-APP-Infrastructure\obj\Debug\net8.0\D-APP-Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Hoang\Desktop\D-APP\d-app-be-service\D-APP-Infrastructure\obj\Debug\net8.0\D-APP-Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang\Desktop\D-APP\d-app-be-service\D-APP-Infrastructure\obj\Debug\net8.0\D-APP-Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Hoang\Desktop\D-APP\d-app-be-service\D-APP-Infrastructure\obj\Debug\net8.0\D-APP-Infrastructure.AssemblyInfo.cs
+C:\Users\Hoang\Desktop\D-APP\d-app-be-service\D-APP-Infrastructure\obj\Debug\net8.0\D-APP-Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Desktop\D-APP\d-app-be-service\D-APP-Infrastructure\obj\Debug\net8.0\D-APP-In.B8559575.Up2Date
+C:\Users\Hoang\Desktop\D-APP\d-app-be-service\D-APP-Infrastructure\obj\Debug\net8.0\D-APP-Infrastructure.dll
+C:\Users\Hoang\Desktop\D-APP\d-app-be-service\D-APP-Infrastructure\obj\Debug\net8.0\refint\D-APP-Infrastructure.dll
+C:\Users\Hoang\Desktop\D-APP\d-app-be-service\D-APP-Infrastructure\obj\Debug\net8.0\D-APP-Infrastructure.pdb
+C:\Users\Hoang\Desktop\D-APP\d-app-be-service\D-APP-Infrastructure\obj\Debug\net8.0\D-APP-Infrastructure.genruntimeconfig.cache
+C:\Users\Hoang\Desktop\D-APP\d-app-be-service\D-APP-Infrastructure\obj\Debug\net8.0\ref\D-APP-Infrastructure.dll
